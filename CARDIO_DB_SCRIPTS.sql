@@ -1,4 +1,4 @@
---DB Scripts for Cardio Challange Project
+--DB Scripts for Cardio Challange Project--
 insert into categery (cat_id,cat_title) values (1,'Beginner');
 insert into categery (cat_id,cat_title) values (2,'Intermediate');
 insert into categery (cat_id,cat_title) values (3,'Advanced');
