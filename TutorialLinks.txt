@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=JtQugdDFkMc --IBM MQ Explorer (version 9) | How to install, configure and integrate with JAVA Spring Boot
+https://www.roseindia.net/ejb/entity-bean-example.shtml -- EJB Simple DAO
+https://www.youtube.com/watch?v=yjrS95TMCvg -- Spring + JMS(JavaMessagingSystem)
+https://www.youtube.com/watch?v=zRlwjWuQZGQ -- SpringBoott+JMS
+https://www.youtube.com/watch?v=zRlwjWuQZGQ --- Spring Boot Security LDAP
+https://www.youtube.com/watch?v=J8I3s0sSP0c -- Spring Security Basic
+https://www.youtube.com/watch?v=sHETKJUBTyk -- Spring mvc security
