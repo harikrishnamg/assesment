@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=f3uAsF3RaCg -- Password Encrption using Hashing
 https://www.youtube.com/watch?v=xgG5qXjeXJA -- Encrypt Password in Login Form with Spring MVC and Hibernate
 https://www.youtube.com/watch?v=qr14n0tTtmE -- Spring Security | BCrypt Password Encoder part 5
 https://www.youtube.com/watch?v=RVvKPP5HyaA&t=8s -- Spring AOP Logging INFO example
+https://www.youtube.com/watch?v=kYAyEQEcTVI -- JAVA Stack Memory and Stack Over Flow exception
+https://www.youtube.com/watch?v=QEqRtJ1ierM -- outofmemory error
+https://www.youtube.com/watch?v=bIzfrvdt7qM -- Core Java With OCJP/SCJP-Serialization-Part 1
+https://www.youtube.com/watch?v=oPIA6jCQDVs --  Core Java With OCJP/SCJP-Serialization-Part 2
