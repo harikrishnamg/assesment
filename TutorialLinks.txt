@@ -5,3 +5,15 @@ https://www.youtube.com/watch?v=zRlwjWuQZGQ -- SpringBoott+JMS
 https://www.youtube.com/watch?v=zRlwjWuQZGQ --- Spring Boot Security LDAP
 https://www.youtube.com/watch?v=J8I3s0sSP0c -- Spring Security Basic
 https://www.youtube.com/watch?v=sHETKJUBTyk -- Spring mvc security
+https://www.youtube.com/watch?v=TNt3GHuayXs&t=1s -- Spring security with JPA (Java Persistance API).
+https://www.youtube.com/watch?v=3pZ3Nh8tgTE -- OAuth terminologies and flows explained - OAuth tutorial - Java Brains
+https://www.youtube.com/watch?v=ww858_JVpYE -- Basic java password Encryption
+https://www.youtube.com/watch?v=KPJXecFdEDo -- MD5 and SHA1
+https://www.youtube.com/watch?v=f3uAsF3RaCg -- Password Encrption using Hashing
+https://www.youtube.com/watch?v=xgG5qXjeXJA -- Encrypt Password in Login Form with Spring MVC and Hibernate
+https://www.youtube.com/watch?v=qr14n0tTtmE -- Spring Security | BCrypt Password Encoder part 5
+https://www.youtube.com/watch?v=RVvKPP5HyaA&t=8s -- Spring AOP Logging INFO example
+https://www.youtube.com/watch?v=kYAyEQEcTVI -- JAVA Stack Memory and Stack Over Flow exception
+https://www.youtube.com/watch?v=QEqRtJ1ierM -- outofmemory error
+https://www.youtube.com/watch?v=bIzfrvdt7qM -- Core Java With OCJP/SCJP-Serialization-Part 1
+https://www.youtube.com/watch?v=oPIA6jCQDVs --  Core Java With OCJP/SCJP-Serialization-Part 2
